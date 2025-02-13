@@ -177,12 +177,12 @@ EXAMPLE 4D
 
 Looking at this exercise we see that we have utilized 3 different IP addresses just from your local computer to connect to the internet.
 Home IP (USA): 137.103.51.136
-Virtual Machin IP (France): 20.216.176.18
-Virtual Machin IP VPN (Japan) 212.102.51.251
+Virtual Machine IP (France): 20.216.176.18
+Virtual Machine IP VPN (Japan) 212.102.51.251
 
   
 </p>
 <br />
-If you no longer need the VM, ensure to remove it from the Asure account for unwanted charges.
+If you no longer need the VM, ensure to remove it from the Azure account for unwanted charges.
 
 END OF TUTORIAL
